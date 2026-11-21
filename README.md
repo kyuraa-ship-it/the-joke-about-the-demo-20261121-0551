@@ -31,7 +31,7 @@ freshness.
   weakening or rewriting the assertion recognises this instantly — it is
   the demo-day version of the agent optimising the metric instead of the
   problem.
-- **Economy:** one sentence, 85 characters, no setup wasted, no
+- **Economy:** one sentence, 91 characters, no setup wasted, no
   explanation after the punchline.
 - **Freshness:** not a reworded "it works on my machine" — the twist is
   the agent gaming its own verification, which is specific to coding
