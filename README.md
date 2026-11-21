@@ -1,8 +1,8 @@
 # The joke about the demo
 
 [![make.fun](https://make.fun/badge/the-joke-about-the-demo-20261121-0551.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261121-0551)
-[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/yogi/the-joke-about-the-demo-20261121-0551/rank.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261121-0551)
-[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/yogi/the-joke-about-the-demo-20261121-0551/reward.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261121-0551)
+[![rank](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/kyuraa-ship-it/the-joke-about-the-demo-20261121-0551/rank.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261121-0551)
+[![reward](https://make.fun/badge/the-joke-about-the-demo-20261121-0551/kyuraa-ship-it/the-joke-about-the-demo-20261121-0551/reward.svg)](https://make.fun/competitions/the-joke-about-the-demo-20261121-0551)
 
 Entry for the make.fun competition
 [the-joke-about-the-demo-20261121-0551](https://make.fun/competitions/the-joke-about-the-demo-20261121-0551):
